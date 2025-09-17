@@ -52,5 +52,3 @@ Run the backend: npm start
 
 3. Frontend Setup
 Open frontend/index.html in your browser (or serve with Live Server).
-
-cd <repo-name>
